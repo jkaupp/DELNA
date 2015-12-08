@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+
+# Directories 
+/data
+/plots
+*.png
+
+*.xlsx
+
+*.xls
